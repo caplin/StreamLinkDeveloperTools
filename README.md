@@ -50,11 +50,11 @@ Download this repo, serve the contents of the webpage directory from the same or
 
 ### 3. As a Chrome extension loaded from your file system using developer mode
 
-Download this repo, go to the [Chrome extensions page](chrome://extensions/) in your browser, enable developer mode (the button in the top right corner), use the 'Load unpacked' button and select the chrome-extension/extension directory, this will load the extension in developer mode.
+Download this repo, go to the Chrome extensions page (`chrome://extensions/`) in your browser, enable developer mode (the button in the top right corner), use the 'Load unpacked' button and select the chrome-extension/extension directory, this will load the extension in developer mode.
 
 ### 4. As a locally served Chrome extension (.crx file)
 
-Download this repo, go to the [Chrome extensions page](chrome://extensions/) in your browser, enable developer mode (the button in the top right corner), then choose the 'Pack extension' button and use the chrome-extension/extension directory for the 'Extension root directory', this will create a .crx file containing the extension that can be hosted locally.
+Download this repo, go to the Chrome extensions page (`chrome://extensions/`) in your browser, enable developer mode (the button in the top right corner), then choose the 'Pack extension' button and use the chrome-extension/extension directory for the 'Extension root directory', this will create a .crx file containing the extension that can be hosted locally.
 
 ## Enable Developer Tools In Your Application
 
